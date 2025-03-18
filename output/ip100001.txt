@@ -1,0 +1,1 @@
+{'ip': '201.219.218.5', 'city': 'Maicao', 'region': 'La Guajira Department', 'country': 'CO', 'loc': '11.3832,-72.2432', 'org': 'AS262215 ITELKOM', 'postal': '442009', 'timezone': 'America/Bogota', 'readme': 'https://ipinfo.io/missingauth'}
